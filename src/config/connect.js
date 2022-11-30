@@ -12,5 +12,5 @@ const connect = () => {
     })
 
     console.log("inside connect");
-
+}
 export default connect;
